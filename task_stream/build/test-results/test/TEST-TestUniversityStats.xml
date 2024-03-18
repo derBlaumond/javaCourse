@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestUniversityStats" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-27T19:28:56" hostname="MBP-von-Injun" time="0.04">
+  <properties/>
+  <testcase name="4.2.6 (3 Punkte) : testSupervisorsOrderedByStudentCountAscending" classname="TestUniversityStats" time="0.017"/>
+  <testcase name="4.2.4 (2 Punkte) : testCourseCountPerUniversity" classname="TestUniversityStats" time="0.004"/>
+  <testcase name="4.2.3 (2 Punkte) : testAverageGradeInformationTechnology" classname="TestUniversityStats" time="0.007"/>
+  <testcase name="4.2.2 (2 Punkte) : testCountStudentNamesBeginningWithL" classname="TestUniversityStats" time="0.003"/>
+  <testcase name="4.2.5 (3 Punkte) : testStudentCountPerUniversity" classname="TestUniversityStats" time="0.004"/>
+  <testcase name="4.2.1 (2 Punkte) : testGermanStudentsSortedByName" classname="TestUniversityStats" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
